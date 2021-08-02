@@ -1,4 +1,4 @@
-# starbucks
+# Starbucks
 
 ![Alt text](/screenshot.png?raw=true)
 
